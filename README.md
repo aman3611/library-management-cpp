@@ -45,3 +45,8 @@ RUN:
 
 ./library     # Linux/Mac/WSL
 library.exe   # Windows
+
+
+## 🖼️ Project Screenshot
+
+![Library Management CLI](screenshot.png)
